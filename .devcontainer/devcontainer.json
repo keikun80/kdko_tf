@@ -1,0 +1,13 @@
+{
+	"name":"TerraForm",
+	"build":{
+		"dockerfile":"Dockerfile",
+		"args" : {}
+	},
+	//"runArgs": {},
+	//"settings": {},
+	"extensions" :[
+		"hashicorp.terraform",
+	],
+	"remoteUser":"vscode",	
+}
