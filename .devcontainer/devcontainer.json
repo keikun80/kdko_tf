@@ -9,5 +9,4 @@
 	"extensions" :[
 		"hashicorp.terraform",
 	],
-	"remoteUser":"vscode",	
 }
